@@ -6,7 +6,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 # EQUIPMENTS REQUIRED
 
 # IP ASSIGNMENT
-
+   
 # NETWORK DIAGRAM
 
 
